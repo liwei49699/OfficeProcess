@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OfficeProcess</string>
+    <string name="net_disconnect_check">无可用网络，请检查后再试</string>
+
+</resources>
