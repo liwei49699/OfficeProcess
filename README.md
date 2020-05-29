@@ -4,35 +4,20 @@
 基础的android应用，主流框架的引入及基本框架的封装
 
 #### 软件架构
-软件架构说明
+RxJava + Retrofit + MVP + Dagger2 + Gson + Glide
 
 
-#### 安装教程
+#### 说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-4.  wanAndroid app的编写
+1.  app为根据wanAndroid提供的开放api做的博客阅读app
+2.  app测试目录为JitPack学习，蓝牙通讯和lottie动画
+3.  kotlinapp为kotlin版的软件基础框架
+4.  andfixdemo和tinker为热修复测试
 
-#### 使用说明
+#### 目标
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  后续将基础组件和业务抽取出来,完成项目的组件化
+2.  将封装的组件和库抽取出来做成开源库
+3.  结合博客介绍项目思路及后续优化
 
 
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
